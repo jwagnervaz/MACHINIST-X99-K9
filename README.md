@@ -42,3 +42,9 @@ Donate and support this project!
 # MACHINIST-X99-K9
 
 BootSecure and tpm2 port to this old ddr3 motherboard. 
+
+
+Donate list:
+
+
+@tutukkkj
